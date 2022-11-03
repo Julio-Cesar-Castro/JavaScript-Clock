@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  max-width: 1920px;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  -webkit-font-smoothing: antialiased;
+}
+
+body img {
+  width: 400px;
+}
+
+body h2 {
+  font-size: 80px;
+}
+
+body span {
+  font-size: 80px;
+}
