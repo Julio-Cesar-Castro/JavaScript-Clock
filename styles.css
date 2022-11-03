@@ -17,16 +17,9 @@ body {
   align-items: center;
   background-color: #000;
   -webkit-font-smoothing: antialiased;
+  font-size: 45px;
 }
 
 body img {
-  width: 400px;
-}
-
-body h2 {
-  font-size: 80px;
-}
-
-body span {
-  font-size: 80px;
+  width: 200px;
 }
